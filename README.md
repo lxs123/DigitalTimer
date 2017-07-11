@@ -1,5 +1,5 @@
 # DigitalTimer
-数字时钟
+数字时钟 attrs 文件
 <resources>
     <declare-styleable name="DigitalTimer">
         <attr name="textColor" format="color" />
