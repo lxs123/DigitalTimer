@@ -1,5 +1,6 @@
-# DigitalTimer
-数字时钟 attrs 文件                                                                                                                   
+# DigitalTimer                                                                                                                      
+注 ： 参考了 https://github.com/crazycodeboy/DigitalTimer 的文章                                                                    
+数字时钟 attrs 文件                                                                                                                
 <  resources  >                                                                                                                     
     < declare-styleable name="DigitalTimer ">                                                                                      
         < attr name="textColor" format="color "/>                                                                                  
